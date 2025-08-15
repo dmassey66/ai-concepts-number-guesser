@@ -1,7 +1,6 @@
 # AI Number Guesser — Toy Reasoning Agent
-**What it does:** Guesses a number using feedback (higher/lower) and explains next steps.  
-               ** Shows constraint reasoning, uncertainty, and UX explainability.
-
+**What it does:** Guesses a number using feedback, higher/lower.  
+             
 ## How to run
 ```bash
 python -m venv .venv && source .venv/bin/activate
